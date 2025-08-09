@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grisoscuro">#1C1C1C</color>
+    <color name="verdeaqua">#578E7E</color>
+    <color name="pastel">#F5ECD5</color>
+    <color name="pastelclaro">#FFFAEC</color>
+    <color name="azuloscuro">#0A0E1A</color>
+    <color name="grisclaro">#727D73</color>
+    <color name="morado">#391e6b</color>
+    <color name="rojointenso">#B00000</color>
+    <color name="grisazulado">#2A3B4C</color>
+</resources>

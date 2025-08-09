@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">proyecto</string>
+    <string name="splash">CASTLEGUIAS</string>
+    <string name="sesion">Inicio de Sesion</string>
+    <string name="registrate">¿No tienes cuenta? Crea una cuenta aqui</string>
+    <string name="ingresa">Ingresa con tus datos</string>
+    <string name="correo">Correo electronico o numero</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="olvido">¿Olvido su contraseña?</string>
+    <string name="ingres">Ingresar con cuenta</string>
+    <string name="creaunacuenta">Crea una cuenta aqui</string>
+    <string name="formuarioregistro">Llena con tus datos</string>
+    <string name="nombrerg">Nombre:</string>
+    <string name="NombreUsuario">Nombre de Usuario:</string>
+    <string name="correoRg">Correo Electronico:</string>
+    <string name="contraseñaRg">Contraseña:</string>
+    <string name="ConfircontraseñaRg">Confirmar Contraseña:</string>
+    <string name="registrarRg">Registrarse</string>
+    <string name="advertencia">Confirmar Registro</string>
+    <string name="atras">Atras</string>
+    <string name="confirmarRg">Confirmar</string>
+    <string name="txtsplash">Ingresar</string>
+    <string name="btn_form_atras">Volver</string>
+    <string name="btn_inisiosesion_crear">Crear cuenta</string>
+</resources>
