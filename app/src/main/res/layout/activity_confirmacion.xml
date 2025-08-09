@@ -48,7 +48,7 @@
             android:layout_height="wrap_content"
             android:text="TextView"
             android:textColor="@color/white"
-            android:layout_marginStart="30dp"
+            android:layout_marginStart="100dp"
             android:layout_marginTop="350dp"
             android:textSize="30dp"/>
 
